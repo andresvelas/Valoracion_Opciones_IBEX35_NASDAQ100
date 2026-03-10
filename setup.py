@@ -17,7 +17,9 @@ setup(
         'plotly>=6.0.0',
         'nbformat>=4.2.0',       
         'ipywidgets>=7.5',
-        'yfinance>=0.2.0'
+        'yfinance>=0.2.0',
+        'scipy',
+        'seaborn'
     ],
     author=name,
     author_email=email,

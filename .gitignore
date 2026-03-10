@@ -5,3 +5,5 @@
 **/*.egg-info/
 src/*/*
 !src/*.py
+
+Práctica_final_MNFI.txt
